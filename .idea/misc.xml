@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_belajar.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_dhomahtain.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_fathahtain.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_harokat.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_harokat_dhomah.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_harokat_fathah.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_harokat_kasroh.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_hijaiyah.xml" value="0.1" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_kasrohtain.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_kuis.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_kuis_tebak_harokat.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_kuis_tebak_hijaiyah.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_kuis_tebak_huruf.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_kuis_tebak_tanwin.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_tanwin.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_tebak_bacaan_harokat.xml" value="0.1" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_tebak_bacaan_hijaiyah.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/layout/activity_tebak_bacaan_tanwin.xml" value="0.18" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Ilyas/AndroidStudioProjects/BelajarMengaji/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
